@@ -1,5 +1,5 @@
 # FB_POLYGON_OFFSET
-FreeBasic Polygon Offeseting with OPENGL and GLUT
+FreeBasic Polygon Offsetting with OPENGL and GLUT
 
 Ejemplo de como hacer espesores en modos alambre sobre sólidos, usando OPENGL y GLUT 
 
