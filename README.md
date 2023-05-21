@@ -5,3 +5,4 @@ Ejemplo de como hacer espesores en modos alambre sobre sólidos, usando OPENGL y
 
 Example of how to make thicknesses (offset) in wire modes on solids, using OPENGL and GLUT
 
+![Imagen polyoffset](https://github.com/jepalza/FB_POLYGON_OFFSET/blob/main/polyoffset.jpg)
